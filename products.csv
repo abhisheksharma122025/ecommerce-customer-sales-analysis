@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Base_Price
+P001,Laptop,Electronics,56485
+P002,Smartphone,Electronics,38725
+P003,Tablet,Electronics,9285
+P004,Headphones,Electronics,41337
+P005,Smartwatch,Electronics,13357
+P006,Office Chair,Home,11963
+P007,Desk,Home,9806
+P008,Mixer,Home,6400
+P009,Bedsheet,Home,1338
+P010,Lamp,Home,11205
+P011,Shirt,Fashion,3628
+P012,Jeans,Fashion,5697
+P013,Shoes,Fashion,1459
+P014,Jacket,Fashion,1609
+P015,Handbag,Fashion,7599
+P016,Face Wash,Beauty,6516
+P017,Shampoo,Beauty,6743
+P018,Moisturizer,Beauty,8914
+P019,Perfume,Beauty,7094
+P020,Sunscreen,Beauty,8436
